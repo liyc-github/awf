@@ -45,7 +45,6 @@
 #include "gtk_empty.h"
 #include <gtk/gtk.h>
 
-
 /*
  * defines
  */
